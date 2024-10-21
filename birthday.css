@@ -1,0 +1,59 @@
+.main{
+    padding: 10px;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align:center;
+    background-image: url('bd05.mp4');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    padding-top: 15px;
+    color: rgb(240, 168, 36);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: rgb(252, 206, 139);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+p {
+    margin-top: 20px;
+}
+Video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  a {
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+p {
+    margin-top: 20px;
+}
+#photoButton{
+    margin: 20px;
+}
